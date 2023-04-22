@@ -1,0 +1,6 @@
+.center_loading {
+  top: 10%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-10%, -50%);
+}
